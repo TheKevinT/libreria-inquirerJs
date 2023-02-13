@@ -34,8 +34,3 @@ const insertDataDB = () => {
   });
   console.log("Successful data !!");
 };
-
-//https://escuelavue.es/cursos/curso-firebase-gratis/vue-firebase-set-add/
-//https://cloud.google.com/firestore/docs/manage-data/add-data?hl=es-419
-//https://stackoverflow.com/questions/71461567/how-to-properly-upload-image-to-firebase-storage-and-save-link-to-firestore
-//https://www.youtube.com/watch?v=A5yjN73Aj7s&t=689s
